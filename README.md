@@ -1,16 +1,42 @@
-# waterly
+📱 WaterNeo – Smart Water Reminder
 
-A new Flutter project.
+Stay Hydrated. Boost Your Wellness.
 
-## Getting Started
+WaterNeo is a beautifully designed, lightweight, and intuitive water-reminder application that helps users build a healthy hydration habit. It tracks daily water intake, sends smart reminders, and visualizes hydration progress — all in a clean and modern UI.
 
-This project is a starting point for a Flutter application.
+🌟 Features
+✅ Intelligent Hydration Reminders
 
-A few resources to get you started if this is your first Flutter project:
+Smart, customizable reminder intervals
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Adaptive notifications based on user activity
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Morning/Evening reminder modes
+
+💧 Daily Water Intake Tracking
+
+One-tap quick add (200ml / 250ml / custom)
+
+Personalized daily goal based on weight, age, lifestyle
+
+Automatic goal calculation
+
+📊 Progress & Analytics
+
+Daily, weekly, monthly hydration charts
+
+Streak tracking and achievement badges
+
+Insights to improve hydration habits
+
+🧩 Additional Smart Features
+
+Dark / Light theme
+
+iOS widgets (Home Screen & Lock Screen)
+
+Apple Health integration (optional)
+
+Offline-first usage
+
+Backup & restore
